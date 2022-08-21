@@ -1,6 +1,8 @@
 # LP3A5---Linguagem-de-Programa-o-3
 Portfólio LP3A5
 ---------------------------
+Descrição: 
+
 Parte da avaliação será realizada a partir de portfólios nos quais deverão ser carregados os códigos fontes de atividades solicitadas.
 
 O portfólio deverá ser criado como um projeto no github que deverá ser compartilhado com o professor.
