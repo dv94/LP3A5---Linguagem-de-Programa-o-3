@@ -1,4 +1,4 @@
-# LP3A5---Linguagem-de-Programa-o-3
+# LP3A5 - Linguagem de Programação 3
 Portfólio LP3A5
 ---------------------------
 Descrição: 
