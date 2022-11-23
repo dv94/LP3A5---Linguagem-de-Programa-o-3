@@ -32,6 +32,6 @@ Sinta-se à vontade para aperfeiçoar seu próprio código. Porém, no ato da en
 Exercicios feitos em conjunto
 
 # Autores:
-Davi Henrique Silva de Oliveira
+Davi Henrique Silva de Oliveira & 
 Lorena M Bezerra
 
