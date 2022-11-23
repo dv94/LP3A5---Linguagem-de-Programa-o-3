@@ -13,3 +13,25 @@ Caso se inspire e estude a partir de projetos de outras pessoas, cite a referên
 
 Sinta-se à vontade para aperfeiçoar seu próprio código. Porém, no ato da entrega deve ter uma versão funcional que atenda a todos os requisitos, portanto, o primeiro passo é desenvolver um produto viável mínimo (MVP), salvar uma versão no git e só então tentar melhorá-lo.
 
+# Tecnologias Utilizadas
+
+- Java
+
+# Atividades desevolvidas - LP3A5
+
+- [Problema do Produtor Consumidor]()
+
+- [Programação Concorrente]()
+
+- [Programação Funcional]()
+
+- [Optional]()
+
+- [Exceptions]()
+
+Exercicios feitos em conjunto
+
+# Autores:
+Davi Henrique Silva de Oliveira
+Lorena M Bezerra
+
