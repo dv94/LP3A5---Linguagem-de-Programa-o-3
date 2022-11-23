@@ -19,15 +19,15 @@ Sinta-se à vontade para aperfeiçoar seu próprio código. Porém, no ato da en
 
 # Atividades desevolvidas - LP3A5
 
-- [Problema do Produtor Consumidor]()
+- [Problema do Produtor Consumidor]( https://github.com/dv94/LP3A5---Linguagem-de-Programa-o-3/tree/main/Atividade%202/src/Atividade2)
 
-- [Programação Concorrente]()
+- [Programação Concorrente]( https://github.com/dv94/LP3A5---Linguagem-de-Programa-o-3/tree/main/Atividade%203/src/Atividade3)
 
-- [Programação Funcional]()
+- [Programação Funcional](https://github.com/dv94/LP3A5---Linguagem-de-Programa-o-3/tree/main/Atividade%204/src/Atividade4)
 
-- [Optional]()
+- [Optional](https://github.com/dv94/LP3A5---Linguagem-de-Programa-o-3/tree/main/Atividade%205/src/Atividade5)
 
-- [Exceptions]()
+- [Exceptions]() - Não foi feito.
 
 Exercicios feitos em conjunto
 
