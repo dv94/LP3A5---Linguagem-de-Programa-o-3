@@ -29,9 +29,11 @@ Sinta-se à vontade para aperfeiçoar seu próprio código. Porém, no ato da en
 
 - [Exceptions]() - Não foi feito.
 
-Exercicios feitos em conjunto
+
 
 # Autores:
+Exercicios feitos em conjunto
+
 Davi Henrique Silva de Oliveira & 
 Lorena M Bezerra
 
